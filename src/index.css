@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+@font-face {
+  font-family: Inter Regular ;
+  src: url('./assets/fonts/Inter-Regular.ttf');
+}
+
+@font-face {
+  font-family: Inter Semibold;
+  src: url('./assets/fonts/Inter-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto Medium';
+  src: url('./assets/fonts/Roboto-Medium.ttf');
+}
+
+body{
+  font-family: Inter Regular;
+  font-weight: 400;
+
+}
+
+
+.container{
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

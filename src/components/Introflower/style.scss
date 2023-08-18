@@ -1,0 +1,28 @@
+.carousel {
+  background-image: url("../../assets/Blockc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 35%;
+  border-radius: 4px;
+  h3 {
+    color: #000;
+    font-family: "Roboto Medium";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px; /* 118.75% */
+  }
+  p {
+  color: #000;
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Title/H4, 18px */
+  font-family: Inter Semibold;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px; /* 122.222% */
+}
+}
+
+

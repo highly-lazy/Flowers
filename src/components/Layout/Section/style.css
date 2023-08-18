@@ -1,0 +1,21 @@
+.section1 h2 {
+  color: #000;
+  font-feature-settings: "clig" off, "liga" off;
+  /* Title/H3, 24px */
+  font-family: Inter SemiBold;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 116.667% */
+}
+.section1 .title {
+  color: var(--neutrals-black, #000);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  /* Title/H4, 18px */
+  font-family: Inter Semibold;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px; /* 122.222% */
+}/*# sourceMappingURL=style.css.map */

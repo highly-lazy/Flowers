@@ -1,0 +1,14 @@
+.all {
+  h4 {
+    color: #000;
+    font-feature-settings: "clig" off, "liga" off;
+
+    /* Title/ H1, 32px */
+    font-family: Inter SemiBold;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px; /* 118.75% */
+    cursor: pointer;
+  }
+}

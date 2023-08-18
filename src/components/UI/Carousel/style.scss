@@ -1,0 +1,25 @@
+.carousel {
+  background-image: url("../../../assets/carousel_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  h3 {
+    color: #000;
+    font-family: "Roboto Medium";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 100% */
+  }
+  p {
+    color: #000;
+    font-feature-settings: "clig" off, "liga" off;
+
+    /* Title/H4, 18px */
+    font-family: Inter Regular;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px; /* 122.222% */
+  }
+}
